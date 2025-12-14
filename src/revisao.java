@@ -5,7 +5,7 @@ public class revisao {
 	  
 String nome = "Victor";
 String hobie = "correr";
-double renda = 12.954;
+double renda = 12.9594;
 int idade = 19;
 	  
 	   
