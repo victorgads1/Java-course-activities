@@ -8,8 +8,8 @@ public class revisao {
 String nome = "Victor";
 String hobie = "correr";
 double renda = 12.9594;
-int idade = 19;
-	  
+int idade = 26;
+	
 	   
   System.out.printf("meu nome é %s , tenho %d anos e gosto de %s, atuamente ganho R$%.4f em um novo emprego. ",
   nome,idade ,hobie,renda);
